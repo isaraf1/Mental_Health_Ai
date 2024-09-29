@@ -52,6 +52,7 @@ function App() {
             />
 
             {/* Add other protected routes similarly */}
+            {/* hello */}
           </Routes>
         </Router>
       </AuthProvider>
