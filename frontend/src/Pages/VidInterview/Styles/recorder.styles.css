@@ -1,0 +1,11 @@
+.video-container {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  video {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  

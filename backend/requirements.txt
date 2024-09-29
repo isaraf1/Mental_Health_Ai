@@ -1,0 +1,12 @@
+djangorestframework
+django-cors-headers
+matplotlib
+torch
+transformers
+scikit-learn
+pandas
+opencv-python
+deepface
+moviepy
+SpeechRecognition
+tf-keras

@@ -1,0 +1,45 @@
+.login-page-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aliceblue;
+    padding-bottom: 5rem;
+}
+
+.login-grid{
+    display: grid;
+    grid-template-columns: 3fr 1px 5fr;
+    max-width: 1200px;
+    padding: 5rem;
+
+}
+.black-divider{
+    background-color: black;
+}
+.login-left{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    background-color:white;
+    /* box-shadow:  1rem #888888; */
+}
+
+.login-left-flex{
+    display: flex;
+    flex-direction: column;
+    margin-left:2rem;
+}
+
+.loginform{
+    background-color: white;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    box-shadow: 1rem;
+}
+
+.login-flex{
+    padding:2rem
+}

@@ -1,0 +1,21 @@
+.pallete-bg{
+    margin-top:0rem;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading{
+    padding-top:8rem;
+}
+
+.desc{
+    padding-top:2rem;
+}
+
+.card-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+}
